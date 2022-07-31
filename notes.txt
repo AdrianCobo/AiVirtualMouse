@@ -1,0 +1,12 @@
+set up:
+pip install opencv-python
+sudo pip install mediapipe
+sudo pip install autopy
+
+just work for windows because we use autopy
+
+run program:
+python3 <program-name>
+
+run module:
+python3 -m HandTrackingModule
