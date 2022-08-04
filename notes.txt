@@ -1,12 +1,15 @@
-set up:
-pip install opencv-python
-sudo pip install mediapipe
-sudo pip install autopy
+requeriments: 
+windos as so
+python3.8
+*this requeriments is due to autopy
 
-just work for windows because we use autopy
+set up:
+    pip install opencv-python
+    pip install mediapipe
+    pip install autopy
 
 run program:
-python3 <program-name>
+& C:/Users/ADRIAN/AppData/Local/Programs/Python/Python38/python.exe c:/Users/ADRIAN/Desktop/AiVirtualMouse/AiVirtualMouse.py
 
 run module:
 python3 -m HandTrackingModule
